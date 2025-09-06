@@ -1,6 +1,6 @@
-sup. my python for finance journey
+my python for finance journey
 
-This repository contains the projects and scripts im building as i follow my 9 month learning plan to break into finance.
+sup my g's. this repository contains the projects and scripts im building as i follow my 9 month learning plan to break into finance.
 
 ## week 1: python & sql Basics
 
