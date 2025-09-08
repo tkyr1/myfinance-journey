@@ -14,3 +14,7 @@ this repository contains the projects and scripts i'm building as i follow my 9-
 ## week 1: basic sql queries
 * **`setup_database.py`**: a python script to create and populate a simple sqlite database with student data.
 * **`database.sql`**: an sql query to select the top 5 students with the highest grades from the database.
+
+## week 1: sql joins
+* **`setup_week1-3.py`**: updates the sqlite database with `courses` and `enrollments` tables.
+* **`week1-3_query.sql`**: an sql query that uses `inner join` to link three tables and list which students are in which courses.
