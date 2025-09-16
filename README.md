@@ -20,4 +20,4 @@ this repository contains the projects and scripts i'm building as i follow my 9-
 * **`week1-3_query.sql`**: an sql query that uses `inner join` to link three tables and list which students are in which courses.
 
 ## week 2: connecting python & sql
-* **`week7_py_sql.py`**: a python script that connects to a sqlite database, runs an sql query, and loads the results into a pandas dataframe.
+* **`week7_py_sql.py`**: a python script that connects to a sqlite database, runs an sql query, loads the results into a pandas dataframe, and uses matplotlib to create a bar chart of the results.
